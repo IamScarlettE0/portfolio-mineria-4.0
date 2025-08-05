@@ -56,9 +56,9 @@ Los notebooks se organizan según el avance del curso, con enfoque aplicado en m
 ## 📬 Contacto
 
 **Scarlett Espinoza**  
-Ingeniera Civil en Metalurgia
-Estudiante de Magister en Ingenieria Industrial
-En formación continua en IA, datos y automatización industrial.
-s.olguin320@gmail.com
+- Ingeniera Civil en Metalurgia
+- Estudiante de Magister en Ingenieria Industrial
+- En formación continua en IA, datos y automatización industrial.
+- s.olguin320@gmail.com
 ---
 
